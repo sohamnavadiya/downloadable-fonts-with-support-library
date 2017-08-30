@@ -10,6 +10,7 @@
         android:id="@+id/newFont"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/space_mono"
         android:text="Give me a new font!"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
